@@ -1,0 +1,174 @@
+{
+  "CH": {
+    "bounds": {
+      "minX": 5.95743100000004,
+      "maxX": 10.49271,
+      "minY": 45.821659,
+      "maxY": 47.811146
+    },
+    "result": "Switzerland",
+    "code": "CH",
+    "type": "country",
+    "longitude": 8.22507050000002,
+    "latitude": 46.816402499999995
+  },
+  "FR-GES-68": {
+    "bounds": {
+      "minX": 6.84299087500005,
+      "maxX": 7.62196636200002,
+      "minY": 47.4211349500002,
+      "maxY": 48.310890198
+    },
+    "result": "Haut-Rhin, Grand Est, France",
+    "code": "FR-GES-68",
+    "type": "subnational2",
+    "parent": {
+      "result": "Grand Est, France",
+      "code": "FR-GES",
+      "type": "subnational1",
+      "parent": {
+        "result": "France",
+        "code": "FR",
+        "type": "country",
+        "longitude": 0.0,
+        "latitude": 0.0
+      },
+      "longitude": 0.0,
+      "latitude": 0.0
+    },
+    "longitude": 7.232478618500035,
+    "latitude": 47.8660125740001
+  },
+  "FR": {
+    "bounds": {
+      "minX": -5.1437509999999,
+      "maxX": 9.56041622200013,
+      "minY": 41.3337520000001,
+      "maxY": 51.0893974320001
+    },
+    "result": "France",
+    "code": "FR",
+    "type": "country",
+    "longitude": 2.2083326110001154,
+    "latitude": 46.2115747160001
+  },
+  "FR-GES": {
+    "bounds": {
+      "minX": 3.38409352300005,
+      "maxX": 8.23263263699999,
+      "minY": 47.4211349500002,
+      "maxY": 50.167644502
+    },
+    "result": "Grand Est, France",
+    "code": "FR-GES",
+    "type": "subnational1",
+    "parent": {
+      "result": "France",
+      "code": "FR",
+      "type": "country",
+      "longitude": 0.0,
+      "latitude": 0.0
+    },
+    "longitude": 5.80836308000002,
+    "latitude": 48.794389726000105
+  },
+  "SA": {
+    "bounds": {
+      "minX": 34.494304,
+      "maxX": 55.666587,
+      "minY": 16.094305,
+      "maxY": 32.270782
+    },
+    "result": "Saudi Arabia",
+    "code": "SA",
+    "type": "country",
+    "longitude": 45.080445499999996,
+    "latitude": 24.182543499999998
+  },
+  "DE": {
+    "bounds": {
+      "minX": 5.87161900000001,
+      "maxX": 15.038113,
+      "minY": 47.269858,
+      "maxY": 55.056525
+    },
+    "result": "Germany",
+    "code": "DE",
+    "type": "country",
+    "longitude": 10.454866000000004,
+    "latitude": 51.163191499999996
+  },
+  "GB": {
+    "bounds": {
+      "minX": -13.69139,
+      "maxX": 1.76416800000004,
+      "minY": 49.865418,
+      "maxY": 60.845822
+    },
+    "result": "United Kingdom",
+    "code": "GB",
+    "type": "country",
+    "longitude": -5.96361099999998,
+    "latitude": 55.35562
+  },
+  "GB-ENG-NFK": {
+    "bounds": {
+      "minX": 0.157078000000013,
+      "maxX": 1.74527800000004,
+      "minY": 52.353883,
+      "maxY": 52.988194
+    },
+    "result": "Norfolk, England, United Kingdom",
+    "code": "GB-ENG-NFK",
+    "type": "subnational2",
+    "parent": {
+      "result": "England, United Kingdom",
+      "code": "GB-ENG",
+      "type": "subnational1",
+      "parent": {
+        "result": "United Kingdom",
+        "code": "GB",
+        "type": "country",
+        "longitude": 0.0,
+        "latitude": 0.0
+      },
+      "longitude": 0.0,
+      "latitude": 0.0
+    },
+    "longitude": 0.9511780000000265,
+    "latitude": 52.6710385
+  },
+  "GB-ENG": {
+    "bounds": {
+      "minX": -6.41930600000001,
+      "maxX": 1.76416800000004,
+      "minY": 49.865418,
+      "maxY": 55.804399
+    },
+    "result": "England, United Kingdom",
+    "code": "GB-ENG",
+    "type": "subnational1",
+    "parent": {
+      "result": "United Kingdom",
+      "code": "GB",
+      "type": "country",
+      "longitude": 0.0,
+      "latitude": 0.0
+    },
+    "longitude": -2.3275689999999853,
+    "latitude": 52.8349085
+  },
+  "KE": {
+    "bounds": {
+      "minX": 33.909586,
+      "maxX": 41.887524,
+      "minY": -4.720417,
+      "maxY": 4.63381900000002
+    },
+    "result": "Kenya",
+    "code": "KE",
+    "type": "country",
+    "longitude": 37.898555,
+    "latitude": -0.043298999999989984
+  }
+}
