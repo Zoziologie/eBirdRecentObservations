@@ -58,7 +58,7 @@ Discover and explore recent bird observations in your region with intelligent ra
    ```bash
    # Install uv if you don't have it
    curl -LsSf https://astral.sh/uv/install.sh | sh
-   
+
    # Install dependencies
    uv pip install -r requirements.txt
    ```
@@ -241,7 +241,7 @@ The application is configured via `src/config/api.js`:
 
 For GitHub Pages deployment, the app is configured with:
 
-- Base path: `/eBirdRecentObservation/`
+- Base path: `/eBirdRecentObservations/`
 - Static asset handling for production builds
 
 ## Contributing

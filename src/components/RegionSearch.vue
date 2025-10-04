@@ -155,14 +155,6 @@ const getNewRegionIssueUrl = () => {
 
 **eBird Region Code:** (if known)
 
-**Additional Information:**
-- Please provide the official eBird region code for this area
-- Include any relevant geographic details
-- Mention if this is a country, state, county, or specific birding location
-
-**Why is this region needed?**
-(Describe why you'd like to see recent observations for this region)
-
 ---
 *This issue was automatically created from the region search interface.*`;
 
