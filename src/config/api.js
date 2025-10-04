@@ -27,7 +27,7 @@ export const EBIRD_CONFIG = {
  */
 export const APP_CONFIG = {
   // Base path for static data files
-  DATA_BASE_PATH: "/eBirdRecentObservation/barchartData",
+  DATA_BASE_PATH: "/eBirdRecentObservations/barchartData",
 
   // External URLs
   EBIRD_BASE_URL: "https://ebird.org",
