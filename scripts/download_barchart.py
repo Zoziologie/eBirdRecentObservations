@@ -281,12 +281,10 @@ Examples:
         """,
     )
 
-    # Mutually exclusive group for region specification
-    region_group = parser.add_mutually_exclusive_group()
-    region_group.add_argument(
+    parser.add_argument(
         "regions", nargs="*", help="One or more region codes (e.g., CH FR DE)"
     )
-    region_group.add_argument(
+    parser.add_argument(
         "--from-file",
         metavar="FILE",
         help="Load region codes from a text file (one per line)",
@@ -312,6 +310,8 @@ Examples:
     )
 
     args = parser.parse_args()
+    if args.regions and args.from_file:
+        parser.error("Choose either regions or --from-file")
 
     if args.create_manifest:
         create_manifest(args.outdir)
