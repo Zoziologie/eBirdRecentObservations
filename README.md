@@ -41,7 +41,7 @@ Discover and explore recent bird observations in your region with intelligent ra
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/rafnuss/eBirdRecentObservation.git
+   git clone git@github.com:Zoziologie/eBirdRecentObservations.git
    cd eBirdRecentObservation
    ```
 
@@ -66,6 +66,8 @@ Discover and explore recent bird observations in your region with intelligent ra
    **Using traditional pip:**
 
    ```bash
+   python3 -m venv venv
+   source venv/bin/activate
    pip install -r requirements.txt
    ```
 
