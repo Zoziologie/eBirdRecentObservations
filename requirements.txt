@@ -1,0 +1,3 @@
+requests
+dotenv
+git+https://github.com/Zoziologie/ebird2latex.git

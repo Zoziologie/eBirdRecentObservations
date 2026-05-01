@@ -170,5 +170,38 @@
     "type": "country",
     "longitude": 37.898555,
     "latitude": -0.043298999999989984
+  },
+  "EC": {
+    "bounds": {
+      "minX": -91.826806,
+      "maxX": -75.2000419999999,
+      "minY": -5.01737499999996,
+      "maxY": 1.45402799999999
+    },
+    "result": "Ecuador",
+    "code": "EC",
+    "type": "country",
+    "longitude": -83.51342399999996,
+    "latitude": -1.781673499999985
+  },
+  "EC-A": {
+    "bounds": {
+      "minX": -79.7609409999999,
+      "maxX": -78.4198519999999,
+      "minY": -3.622366,
+      "maxY": -2.550949
+    },
+    "result": "Azuay, Ecuador",
+    "code": "EC-A",
+    "type": "subnational1",
+    "parent": {
+      "result": "Ecuador",
+      "code": "EC",
+      "type": "country",
+      "longitude": 0.0,
+      "latitude": 0.0
+    },
+    "longitude": -79.09039649999991,
+    "latitude": -3.0866575000000003
   }
 }
